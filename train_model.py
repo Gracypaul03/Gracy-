@@ -1,4 +1,4 @@
-
+import joblib
 import pandas as pd
 import numpy as np
 
@@ -56,6 +56,11 @@ model = HistGradientBoostingRegressor(
 # Train the model
 print("\nTraining the model...")
 model.fit(X_train, y_train)
+
+# Save the trained model
+joblib.dump(model, "retail_demand_model.pkl")
+
+print("Trained model saved successfully!")
 
 # Make predictions
 predictions = model.predict(X_val)
