@@ -129,16 +129,23 @@ Retail-Demand-Forecasting/
     └── processed_sales.csv
 ```
 
+
 ## 📸 Dashboard Screenshots
 
 ### 1. Inventory Overview
-![Inventory Overview](screenshots/inventory_overview.png)
+![Inventory Overview](screenshots/inventory_overview.jpeg)
 
-### 2. Smart Inventory Recommendations
-![Inventory Recommendations](screenshots/inventory_recommendations.png)
+### 2. Inventory Recommendations
+![Inventory Recommendations](screenshots/inventory_recommendations.jpeg)
 
 ### 3. Monthly Sales Trend
-![Monthly Sales Trend](screenshots/monthly_sales_trend.png)
+![Monthly Sales Trend](screenshots/monthly_sales_trend.jpeg)
+
+### 4. Smart Inventory Recommendation
+![Smart Inventory Recommendation](screenshots/smart_inventory_recommendation.jpeg)
+
+### 5. Urgent Inventory Alert
+![Urgent Inventory Alert](screenshots/urgent_inventory_alert.jpeg)
 
 
 ## ⚠️ Important Note
