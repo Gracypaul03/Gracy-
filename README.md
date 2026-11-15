@@ -70,19 +70,11 @@ The project uses the Store Item Demand Forecasting dataset.
 
 ```bash
 git clone https://github.com/Gracypaul03/Gracy-.git
-```
 
-### 2. Navigate to the Project Folder
-
-```bash
 cd Gracy-
-```
 
 ### 3. Create a Virtual Environment
-
-```bash
 python -m venv venv
-```
 
 ### 4. Activate the Virtual Environment
 
@@ -146,23 +138,18 @@ Retail-Demand-Forecasting/
 ## 📸 Dashboard Screenshots
 
 ### 1. Inventory Overview
-
 ![Inventory Overview](screenshots/inventory_overview.jpeg)
 
 ### 2. Inventory Recommendations
-
 ![Inventory Recommendations](screenshots/inventory_recommendations.jpeg)
 
 ### 3. Monthly Sales Trend
-
 ![Monthly Sales Trend](screenshots/monthly_sales_trend.jpeg)
 
 ### 4. Smart Inventory Recommendation
-
 ![Smart Inventory Recommendation](screenshots/smart_inventory_recommendation.jpeg)
 
 ### 5. Urgent Inventory Alert
-
 ![Urgent Inventory Alert](screenshots/urgent_inventory_alert.jpeg)
 
 ## ⚠️ Important Note
